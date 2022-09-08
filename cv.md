@@ -1,5 +1,5 @@
 1. Ihar Klimovich 
-2. Phone: **+375 (33) 62-39-199**
+2. Phone: **+375 (33) 62-39-199** , E-mail: random_les@mail.ru
 3. Ingeneer-programmer, poet, like musik
 4. C#, Deplhi, VBA, little C++, Java Script, Python
 5. ```int a=0; a++;```
